@@ -52,4 +52,4 @@ console.log(typeof dataTypes.length)
 
 // a) Your answer: number
 // b) Verify and explain: Correct. The inbuilt method "length" provides the length of the array dataTypes and returns as a number.
-//                          The 
+//                          The method typeof will determine the type of data for "dataTypes.length", therefore output is a number.

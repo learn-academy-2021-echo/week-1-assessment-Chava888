@@ -8,6 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 1. What is git? What is the difference between git and Github?
 
   Your answer:
+Git is a repository track file system, meaning a git is created to track changes, updates, deletion of files. It allows for more than one coder to work on the same code by creating different branches, alterante paths, to work independently in the code and later on merge the changes to a single main path.
 
   Researched answer:
 
@@ -16,6 +17,8 @@ Then, research the question to expand on your answer. Even if you feel you have 
 2. What types of evaluations will return a Boolean value?
 
   Your answer:
+Conditional statements will return a boolean value, "true" and "false". The conditional statements use syntax such as if,
+elseif, else and  &&, ||, <, >. 
 
   Researched answer:
 
@@ -24,6 +27,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 3. What is an index? What is the difference between index and value?
 
   Your answer:
+  Index is the location of an instance of an array or location of a character within a string while value is the actual element/item that is stored in the index.
 
   Researched answer:
 
@@ -32,6 +36,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 4. What is iteration?
 
   Your answer:
+The repeat of executing a set of instructions that is based on a set of code. Iteration is a re
 
   Researched answer:
 
