@@ -42,7 +42,7 @@ var weekendDays = ["saturday", "sunday"]
 
 // a) Your answer: Error
 // b) Verify and explain: TypeError: weekendDays.toUpperCase is not a function. The method toUpperCase() is an inbuilt method in javascript that works only with strings and not arrays.
-//                        The variable weekendDay is an array, therefore, the method toUpperCase does't work. In order for the method to work we would need to access the element itsel
+//                        The variable weekendDay is an array, therefore, the method toUpperCase does't work. In order for the method to work we would need to access the element itself.
 
 
 // --------------------5) What will this log?
